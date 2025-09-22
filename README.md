@@ -27,3 +27,13 @@ There is no installation for this project.
 
 - @demigrumpi
 
+<h1 align="center">Hi 👋, I'm Demi</h1>
+<h3 align="center">A passionate student from Korea</h3>
+
+- 🌱 I’m currently learning **AI**
+
+- 📫 How to reach me **demigrumpi@naver.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
